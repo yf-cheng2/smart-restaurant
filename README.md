@@ -1,4 +1,4 @@
-# smart-restaurant
+# Smart-Restaurant
 基于Java+Springboot+Vue的智能餐厅服务系统
 
 一、系统介绍
