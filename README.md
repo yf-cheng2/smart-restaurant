@@ -1,11 +1,16 @@
 # smart-restaurant
 基于Java+Springboot+Vue的智能餐厅服务系统
+
 一、系统介绍
 本项目前后端分离，分为管理员、用户两种角色
+
 1、用户：
 - 注册、登录、智能点餐、订单查询、个人信息
+
 2、管理员：
 - 菜单管理、用户管理、角色管理、分类管理、菜品管理、订单管理、标签管理、座位管理、客服管理、订单管理
+
+
 产品概念：提升餐厅运营效率和顾客体验
 核心功能详述：
 1、智能点餐
@@ -60,13 +65,18 @@
 数据库：root 密码：123456
 
 Wechat 
+
 Appid: wxdf52547718b4b8f
+
 AppSecret: 
 
 
 百度AI 
+
 AppID: 120413675 
+
 API Key: 4xDFiMDaQY5GC0EDv6YeNUpH 
+
 Secret Key: 
 
 截图：
