@@ -79,7 +79,8 @@ API Key: 4xDFiMDaQY5GC0EDv6YeNUpH
 
 Secret Key: 
 
-截图：
+部分截图：
+
 管理员web界面：
 <img width="1917" height="1028" alt="微信图片_20251107123107_1013_52" src="https://github.com/user-attachments/assets/a2b1e7e2-b18a-40eb-b956-9ef4b02ac102" />
 <img width="1519" height="735" alt="微信图片_20251107123141_1015_52" src="https://github.com/user-attachments/assets/49616df2-92d7-46a6-bf08-0111b4561b4e" />
@@ -92,6 +93,7 @@ a8709b6-2b92-4e35-b195-5854d6d8bd95" />
 <img width="1920" height="1080" alt="微信图片_20251107124403_1031_52" src="https://github.com/user-attachments/assets/9b7961e5-91ca-42a2-99da-c938d9ca2515" />
 <img width="1917" height="1079" alt="微信图片_20251107124710_1041_52" src="https://github.com/user-attachments/assets/7163b302-9d5f-4097-b81c-c26bfc5d99c3" />
 <img width="832" height="900" alt="微信图片_20251107125238_1057_52" src="https://github.com/user-attachments/assets/b11df2d8-95de-4d68-8a77-cccfef9e4580" />
+微信小程序界面：
 <img width="849" height="893" alt="微信图片_20251107125306_1059_52" src="https://github.com/user-attachments/assets/6070cf2d-8864-4f8c-85f8-a4d2c1582a4a" />
 <img width="880" height="919" alt="微信图片_20251107125027_1051_52" src="https://github.com/user-attachments/assets/c523685f-8414-4b7a-8f01-8c5b69481dd8" />
 <img width="851" height="885" alt="微信图片_20251107125122_1056_52" src="https://github.com/user-attachments/assets/f97b2aed-489b-4f1b-bbf1-708588362a48" />
