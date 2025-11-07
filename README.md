@@ -80,6 +80,7 @@ API Key: 4xDFiMDaQY5GC0EDv6YeNUpH
 Secret Key: 
 
 截图：
+管理员web界面：
 <img width="1917" height="1028" alt="微信图片_20251107123107_1013_52" src="https://github.com/user-attachments/assets/a2b1e7e2-b18a-40eb-b956-9ef4b02ac102" />
 <img width="1519" height="735" alt="微信图片_20251107123141_1015_52" src="https://github.com/user-attachments/assets/49616df2-92d7-46a6-bf08-0111b4561b4e" />
 <img width="857" height="628" alt="微信图片_20251107123413_1016_52" src="https://github.com/user-attachments/assets/bb4e0f9e-d20c-4648-8832-6cd362f9353e" />
